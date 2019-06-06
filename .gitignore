@@ -1,0 +1,8 @@
+# IGNORED FILES
+*.iml
+todo.txt
+*notes.
+*.code-workspace
+
+#IGNORED FOLDERS
+.git/
